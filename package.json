@@ -1,0 +1,22 @@
+{
+  "name": "codesharenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amity874/LiveCodeShareNode.git"
+  },
+  "author": "Amit Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amity874/LiveCodeShareNode/issues"
+  },
+  "homepage": "https://github.com/amity874/LiveCodeShareNode#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
